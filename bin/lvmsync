@@ -19,10 +19,10 @@
 #
 require 'optparse'
 require 'lvm'
-require 'git-version-bump'
 require 'open3'
 
 PROTOCOL_VERSION = "lvmsync PROTO[3]"
+VERSION = "3.3.0"
 
 include LVM::Helpers
 
