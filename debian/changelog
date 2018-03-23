@@ -1,5 +1,12 @@
-ruby-lvmsync (3.3.0-1) UNRELEASED; urgency=medium
+ruby-lvmsync (3.3.2-2) UNRELEASED; urgency=medium
 
+  [ Juan J. Martínez ]
   * Initial debian package, removed git-version-bump dependency.
 
- -- Juan J. Martínez <juan@memset.com>  Thu, 22 Jan 2015 09:30:11 +0000
+  [ Tom Whitwell ]
+  * Bump version to 3.3.2
+
+  [ Tom Whitwell ]
+  * Fix version query back to how it worked before
+
+ -- Tom Whitwell <tom.whitwell@memset.com>  Fri, 23 Mar 2018 14:00:02 +0000

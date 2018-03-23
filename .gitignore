@@ -1,2 +1,4 @@
 Gemfile.lock
 pkg/
+debian/files
+debian/ruby-lvmsync*

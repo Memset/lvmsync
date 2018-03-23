@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
 	s.name = "lvmsync"
 
-	s.version = "3.3.0"
-	s.date    = "2015-01-22"
+	s.version = "3.3.2"
+	s.date    = "2015-05-08"
 
 	s.platform = Gem::Platform::RUBY
 
